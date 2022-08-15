@@ -4,7 +4,7 @@ A flutter project to get tiles position from coordinates.
 
 ## Getting Started
 
-Type ```flutter run ``` into the console to launch app.
+Type ```flutter run``` into the console to launch app.
 
 ## Paths
 
