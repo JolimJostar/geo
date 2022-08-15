@@ -6,4 +6,4 @@ A flutter project to get tiles position from coordinates.
 ```
 flutter run 
 ```
-to loaunch app
+to launch app
