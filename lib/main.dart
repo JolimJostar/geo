@@ -79,7 +79,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       inputFormatters: [
                         FilteringTextInputFormatter.allow(
                           RegExp(r'(^-?\d*\.?\d*)'),
-                        )
+                        ),
                       ],
                       decoration: const InputDecoration(
                         labelText: 'Latitude',
@@ -94,7 +94,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       inputFormatters: [
                         FilteringTextInputFormatter.allow(
                           RegExp(r'(^-?\d*\.?\d*)'),
-                        )
+                        ),
                       ],
                       decoration: const InputDecoration(
                         labelText: 'Longitude',
